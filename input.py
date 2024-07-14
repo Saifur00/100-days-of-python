@@ -1,0 +1,5 @@
+a = input("Please provide your name:")
+print(a)
+b = int(input("Please provide your income:"))
+c = int(input("Please enter your bonus:"))
+print(b+c)
